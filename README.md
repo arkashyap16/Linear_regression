@@ -53,10 +53,8 @@ Used the following metrics:
 - Regression diagnostic plots
 
 - **Here are some screenshots of the code output and visulaization**
-![Screenshot 2025-06-26 202015](https://github.com/user-attachments/assets/36c99934-b9b3-4815-8aaa-bc34e44b58d3)
 ![Screenshot 2025-06-26 201958](https://github.com/user-attachments/assets/6cdb6776-a298-462b-ad41-529919dcabce)
+![Screenshot 2025-06-26 202015](https://github.com/user-attachments/assets/36c99934-b9b3-4815-8aaa-bc34e44b58d3)
 ![Screenshot 2025-06-26 201911](https://github.com/user-attachments/assets/4a7e328a-f5ea-4c60-90f7-41838ff1f535)
 
 ---------------------------------**Have a good code**--------------------------------------
-
-- 
